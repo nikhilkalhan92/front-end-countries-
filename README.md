@@ -5,8 +5,11 @@ Please enter NPM start on the terminal to open the website,
 
 I used react as the front end interface. Creating 2 files in the src folder - CountryList.js & styles.css
 
-I had to delete the node.modules folder - please clone the repo and run the command 'npm install' to bring the node folder back into your VS code and you can run the website. Thank you
-
 Pictures below 
 
+Create a simple component that shows countries by continent on a single page
+
+If you click, expand into a country you will see Capital, and languages spoken
+
+Integrate a top search by country name
 
